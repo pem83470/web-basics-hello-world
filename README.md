@@ -1,5 +1,9 @@
+Peyton McWhorter
+
 # web-basics-hello-world
 A super-basic (and ugly!) web page to show off the basics for SoT hackfest (html, css, js...).
+
+edit here
 
 Following this readme should help to prepare you for a weekend of API hacking by familiarising you with the basics of git, running a simple python server, and playing around with some web technologies to get a basic webpage to display some data from a simple API.
 
@@ -28,6 +32,8 @@ _Note: SimpleHTTPServer will default to serving the index.html file at the root 
 _Note: If you are using python 3 then I think you will need to run_ `python -m http.server 8000` _instead._
 
 _Note: You might be able to just open the index.html page in a browser, but most browsers have security features that disable a bunch of things we might need when loading files locally. The python server will help us get around these security restrictions._
+
+*add a note here
 
 ## Working with web stuff
 The repo you forked and cloned contains a web page that is pretty useless and gross to look at. There are a bunch of things you can fix up to make it better, and in doing so get to play with most of the core things that make web pages work.
